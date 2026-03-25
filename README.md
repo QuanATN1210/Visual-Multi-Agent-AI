@@ -101,8 +101,7 @@ flowchart TD
 
 ## Reference
 
-- AI VietNam (AIO2025): ý tưởng và hướng dẫn triển khai mang tính tham khảo cho flow Agentic AI.
+- AI VietNam 
 
 ---
 
-Nếu cần, có thể bổ sung thêm phần "Troubleshooting" theo từng lỗi cụ thể trong quá trình chạy notebook.
